@@ -1,9 +1,8 @@
 import java.util.*;
-import java.io.*;
 
 //import java.util.Scanner;
 
-public class BasketballOneOnOne{
+public class basketballoneonone {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.next();
